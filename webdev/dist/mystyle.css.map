@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["mystyle.scss"],"sourcesContent":["$bgcolor:lightblue;\r\nh1{\r\n    background-color: $bgcolor;\r\n}\r\nh4{\r\n    font-size: 500p;\r\n}"],"file":"mystyle.css"}

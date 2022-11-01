@@ -1,0 +1,1 @@
+{"version":3,"sources":["mystyle.scss"],"names":[],"mappings":"AAAA,GACE,iBAAkB,QAGpB,GACE,UAAW","file":"mystyle.min.css","sourcesContent":["$bgcolor:lightblue;\r\nh1{\r\n    background-color: $bgcolor;\r\n}\r\nh4{\r\n    font-size: 500p;\r\n}"]}
